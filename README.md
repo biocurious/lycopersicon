@@ -1,4 +1,4 @@
-# lycopersicon Grafting Project.
+# Lycopersicon Grafting Project.
 
 Members:  Shashank, Rikke, Jarl
 
